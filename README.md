@@ -1,1 +1,2 @@
-# project-trash-bin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
